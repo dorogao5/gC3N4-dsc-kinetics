@@ -104,3 +104,7 @@ cells. Units: temperature in °C, conversion `alpha` as a fraction (0..1),
 - Criado master-plot analysis of the 15 standard solid-state reaction models.
 - Fraser–Suzuki asymmetric peak deconvolution and the constrained multi-rate fit
   after Perejón, Sánchez-Jiménez et al. (2011).
+
+## License
+
+Released under the MIT License — see [LICENSE](LICENSE).
