@@ -34,29 +34,6 @@ kinetic parameter from those raw files.
 7. **Export** (`figures.py`, `export_data.py`) – publication figures plus the
    post-processed XY data behind every figure as plain CSV.
 
-## Results
-
-| Precursor | Main DSC peak | Effective model | ln A | Mean Ea (Friedman), kJ/mol |
-|-----------|---------------|-----------------|------|----------------------------|
-| Melamine | ~550 °C | F1 (first order) | ~44 | ~340 |
-| Melamine barbiturate | ~360 °C | R3 (contracting volume) | ~94 | ~480 (a) |
-| Melamine thiobarbiturate | ~300 °C | R3 (contracting volume) | ~58 (b) | ~480 (a) |
-
-> Figures and CSV values are the authoritative numbers; the table is a summary.
-
-The process is multi-step (`Ea` varies with `alpha`), so `f(alpha)` is an
-**effective** description rather than a single elementary mechanism. Two points of
-method are worth stating explicitly, because they determine the model choice:
-
-- The Criado master plot is **degenerate**: the first-order and Avrami–Erofeev
-  curves coincide (F1 ≡ A2 ≡ A3 ≡ A4), and the contracting-volume and 3-D Jander
-  diffusion curves coincide (R3 ≡ D3). The master plot therefore identifies a
-  *group* of equivalent shapes, not a unique model.
-- Within each group the choice is made on physical grounds: an Avrami
-  nucleation–growth law is not appropriate for the molecular polycondensation of
-  these precursors and is not used; the diffusion form D3 is rejected in favour of
-  the geometric contracting-volume form R3.
-
 ## Repository layout
 
 ```
