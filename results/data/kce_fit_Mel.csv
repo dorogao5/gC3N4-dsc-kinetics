@@ -1,0 +1,6 @@
+﻿# Compensation line parameters lnA = a*Ea + b for each method.
+method,slope_a,intercept_b,R2
+Friedman,0.151,-7.06979,0.996961
+KAS,0.135743,1.98113,0.993708
+OFW,0.137281,1.49429,0.993051
+Starink,0.135847,2.52623,0.993702

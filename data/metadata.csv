@@ -1,0 +1,10 @@
+sample,abbreviation,heating_rate_K_min,sample_mass_mg,temperature_program_C,atmosphere,instrument,file
+melamine,Mel,1,2.52,30-600 (heating to 600 at 1 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine/melamine_1K.txt
+melamine,Mel,3,4.28,30-600 (heating to 600 at 3 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine/melamine_3K.txt
+melamine,Mel,5,3.89,30-600 (heating to 600 at 5 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine/melamine_5K.txt
+melamine barbiturate,MelBar,1,2.56,30-400 (heating to 400 at 1 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine-barbiturate/melamine-barbiturate_1K.txt
+melamine barbiturate,MelBar,3,2.52,30-400 (heating to 400 at 3 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine-barbiturate/melamine-barbiturate_3K.txt
+melamine barbiturate,MelBar,5,2.36,30-400 (heating to 400 at 5 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine-barbiturate/melamine-barbiturate_5K.txt
+melamine thiobarbiturate,MelTbar,1,6.45,30-590 (heating to 590 at 1 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine-thiobarbiturate/melamine-thiobarbiturate_1K.txt
+melamine thiobarbiturate,MelTbar,3,6.03,30-590 (heating to 590 at 3 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine-thiobarbiturate/melamine-thiobarbiturate_3K.txt
+melamine thiobarbiturate,MelTbar,5,6.40,30-590 (heating to 590 at 5 K/min),inert,NETZSCH DSC 204F1 Phoenix,melamine-thiobarbiturate/melamine-thiobarbiturate_5K.txt
